@@ -1,2 +1,6 @@
-# sublime
-sublime text settings
+# sublime   
+    
+***Packages***    
+- minify
+- colorpicker
+- gitgutter
