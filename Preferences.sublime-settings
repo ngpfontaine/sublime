@@ -17,5 +17,8 @@
 	"preview_on_click": false,
 	"theme": "Spacegray.sublime-theme",
 	"wide_caret": true,
-	"wrap_width": 80
+	"wrap_width": 95,
+	"auto_indent": true,
+  "smart_indent": true,
+  "tab_size": 2,
 }
